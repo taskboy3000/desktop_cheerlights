@@ -15,3 +15,7 @@ missing.  Then, simply run: 'perl desktop_cheerlights.pl'
 
 Pass the '-h' switch on the command line to desktop_cheerlights.pl to see what visualization options
 are available.
+
+## ABOUT
+
+For more information about the creator of this software can be found at [taskboy.com](http://taskboy.com/).
